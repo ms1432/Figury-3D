@@ -1,3 +1,2 @@
 # 3D-Figures
-# Figury-3D
-# Figury-3D
+Opis projektu w pliku PDF
